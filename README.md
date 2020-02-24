@@ -13,3 +13,7 @@ pip install actupac
 
 # Source code
 The source code is avaliable in the folder actupac
+
+# How to use 
+personal blog:
+https://www.guojingde.cn/2020/02/20/actupac_package/#more
